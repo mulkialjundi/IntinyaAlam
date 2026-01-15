@@ -43,7 +43,7 @@ body {
 
 .navbar .container {
   width: 95%;
-  max-width: 1400px;
+  max-width: 1800px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -411,6 +411,7 @@ footer {
   transition: all 0.3s ease;
   animation: float 3s ease-in-out infinite;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .floating-wa:hover {
